@@ -1,2 +1,3 @@
 # Poncelet-App
-An app made with PyGame which represents the truthfulness of Poncelet–Steiner theorem
+An app showcasing the power of the Poncelet–Steiner theorem\
+Powered by Python 3, PyGame
